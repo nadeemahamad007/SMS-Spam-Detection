@@ -27,7 +27,8 @@ The SMS Spam Detection project focuses on developing an AI model to classify SMS
 ## Technologies Used
 
 **1. Programming Language**: Python 3.x
-- **Libraries**:
+
+**2. Libraries**:
   - **Scikit-learn**: For machine learning algorithms and model evaluation.
 
   - **Numpy**: For numerical operations and data manipulation.
@@ -36,7 +37,7 @@ The SMS Spam Detection project focuses on developing an AI model to classify SMS
     
   - **Matplotlib**: For visualizing results and performance metrics.
     
-  **2. Tools**: 
+**2. Tools**: 
   - **Jupyter Notebook** (optional): For interactive coding and experimentation.
     
   - **Git**: For version control and collaboration.
