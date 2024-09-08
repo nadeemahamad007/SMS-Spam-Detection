@@ -8,25 +8,25 @@ The SMS Spam Detection project focuses on developing an AI model to classify SMS
 
 ## Key Features
 
-- **Data Preprocessing**: Includes cleaning SMS text data, tokenization, and handling inconsistencies.
+**1. Data Preprocessing**: Includes cleaning SMS text data, tokenization, and handling inconsistencies.
   
-- **Feature Extraction**:
+**2. Feature Extraction**:
   - **TF-IDF**: Converts text into numerical features reflecting word importance.
     
   - **Word Embeddings**: Provides dense vector representations of words, capturing semantic meanings.
     
-- **Classification Models**:
+  **3. Classification Models**:
   - **Naive Bayes**: Probabilistic model based on Bayes' theorem with feature independence assumptions.
     
   - **Logistic Regression**: Linear model predicting the probability of a message being spam.
     
   - **Support Vector Machines (SVM)**: Finds the optimal hyperplane to separate spam from legitimate messages.
     
-- **Model Evaluation**: Metrics including accuracy, precision, recall, and F1-score to assess model performance.
+  **4. Model Evaluation**: Metrics including accuracy, precision, recall, and F1-score to assess model performance.
 
 ## Technologies Used
 
-- **Programming Language**: Python 3.x
+**1. Programming Language**: Python 3.x
 - **Libraries**:
   - **Scikit-learn**: For machine learning algorithms and model evaluation.
 
@@ -36,7 +36,7 @@ The SMS Spam Detection project focuses on developing an AI model to classify SMS
     
   - **Matplotlib**: For visualizing results and performance metrics.
     
-- **Tools**: 
+  **2. Tools**: 
   - **Jupyter Notebook** (optional): For interactive coding and experimentation.
     
   - **Git**: For version control and collaboration.
